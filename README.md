@@ -1,0 +1,1 @@
+Hello! Thanks For Using Icy Client! Please Read The Steps. 1. Make Sure You Have Utilla Installed. 2. Make Sure You Have Gorilla Tag Installed. 3. Drag The IcyClient.dll File Into Your Plugins Folder. 4. Have Fun!  Please Note This Is A Very Early Build And May Have Some Bugs!
